@@ -2,7 +2,7 @@
 
 ### About myself
 
-- 🔭&nbsp;&nbsp;A very passionate software developer, also entrepreneur, problem solver and also interested in development.
+- 🔭&nbsp;&nbsp;A very passionate software developer, entrepreneur, problem solver and interested in development to make the wolrd better place :).
 
 ### Github statistics
 
