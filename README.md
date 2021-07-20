@@ -6,9 +6,13 @@
 
 ### Github statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshalofficial&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;
 
+<p align="center">
+ <a href="#" alt="MarshalOfficial">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshalofficial&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"" />
+ </a>
+</p>  
+  
   
 <p align="center">
  <a href="#" alt="MarshalOfficial's github stats">
