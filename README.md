@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marshal</h1>
 
-<!--
-**MarshalOfficial/MarshalOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About myself
 
-Here are some ideas to get you started:
+- 🔭&nbsp;&nbsp;A very passionate software developer, also entrepreneur, problem solver and also interested in development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github statistics
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadorequest&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadorequest&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vadorequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### Top OSS projects
+
+> Curated list of my most important OSS contributions
+
+<a href="https://github.com/UnlyEd/next-right-now">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
+</a>
+
+<a href="https://github.com/UnlyEd/next-typescript-api-zeit-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
+</a>
+
+
