@@ -19,8 +19,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marshalofficial&theme=tokyonight&show_icons=true" />
  </a>
 </p>  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marshalofficial)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+                                  
